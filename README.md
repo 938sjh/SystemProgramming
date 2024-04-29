@@ -22,7 +22,7 @@ Linux MyShell 구현
 
 <h2>Project2. Concurrent Stock Server</h2>
 
-여러 명의 client가 동시에 접속하여 Concurrent하게 서비스할 수 있는 Concurrent 주식 서버를 구현
+여러 명의 client가 동시에 접속하여 Concurrent하게 서비스할 수 있는 Concurrent 주식 서버를 구현(Network Programming)
 
 -Event-driven Approach
 
